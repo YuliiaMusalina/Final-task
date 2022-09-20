@@ -10,3 +10,13 @@ for (int i = 0; i < symbols.Length; i++)
 
     }
 
+}
+PrintArray(newSymbols);
+
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+}

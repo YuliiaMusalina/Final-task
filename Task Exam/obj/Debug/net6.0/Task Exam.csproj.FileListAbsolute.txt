@@ -1,0 +1,15 @@
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\bin\Debug\net6.0\Task Exam.exe
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\bin\Debug\net6.0\Task Exam.deps.json
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\bin\Debug\net6.0\Task Exam.runtimeconfig.json
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\bin\Debug\net6.0\Task Exam.dll
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\bin\Debug\net6.0\Task Exam.pdb
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.csproj.AssemblyReference.cache
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.AssemblyInfoInputs.cache
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.AssemblyInfo.cs
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.csproj.CoreCompileInputs.cache
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.dll
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\refint\Task Exam.dll
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.pdb
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\Task Exam.genruntimeconfig.cache
+C:\Users\uliamusalina\Desktop\Examination\Task\Task Exam\obj\Debug\net6.0\ref\Task Exam.dll
